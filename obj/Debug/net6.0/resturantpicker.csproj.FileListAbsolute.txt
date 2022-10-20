@@ -1,0 +1,15 @@
+C:\Users\Mark\Desktop\codeclass\resturantpicker\obj\Debug\net6.0\resturantpicker.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\codeclass\resturantpicker\obj\Debug\net6.0\resturantpicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\codeclass\resturantpicker\obj\Debug\net6.0\resturantpicker.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\codeclass\resturantpicker\obj\Debug\net6.0\resturantpicker.AssemblyInfo.cs
+C:\Users\Mark\Desktop\codeclass\resturantpicker\obj\Debug\net6.0\resturantpicker.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\codeclass\resturantpicker\bin\Debug\net6.0\resturantpicker.exe
+C:\Users\Mark\Desktop\codeclass\resturantpicker\bin\Debug\net6.0\resturantpicker.deps.json
+C:\Users\Mark\Desktop\codeclass\resturantpicker\bin\Debug\net6.0\resturantpicker.runtimeconfig.json
+C:\Users\Mark\Desktop\codeclass\resturantpicker\bin\Debug\net6.0\resturantpicker.dll
+C:\Users\Mark\Desktop\codeclass\resturantpicker\bin\Debug\net6.0\resturantpicker.pdb
+C:\Users\Mark\Desktop\codeclass\resturantpicker\obj\Debug\net6.0\resturantpicker.dll
+C:\Users\Mark\Desktop\codeclass\resturantpicker\obj\Debug\net6.0\refint\resturantpicker.dll
+C:\Users\Mark\Desktop\codeclass\resturantpicker\obj\Debug\net6.0\resturantpicker.pdb
+C:\Users\Mark\Desktop\codeclass\resturantpicker\obj\Debug\net6.0\resturantpicker.genruntimeconfig.cache
+C:\Users\Mark\Desktop\codeclass\resturantpicker\obj\Debug\net6.0\ref\resturantpicker.dll
